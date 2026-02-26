@@ -1,9 +1,9 @@
 
 # Подготовка к Демо Экзамену (09.02.07) 
 
-> **warning** Актуальное задание находится [здесь на 32 странице](https://bom.firpo.ru/file/public/117431/%D0%9A%D0%9E%D0%94%2009.02.07-5-2026%20%D0%A2%D0%BE%D0%BC%201.pdf) 
+> :warning: Актуальное задание находится [здесь на 32 странице](https://bom.firpo.ru/file/public/117431/%D0%9A%D0%9E%D0%94%2009.02.07-5-2026%20%D0%A2%D0%BE%D0%BC%201.pdf) 
 
-> **info** Приложение к ДЭ (тут)[https://disk.yandex.ru/d/NLAk1ZZT7GhYyQ]
+> :info: Приложение к ДЭ (тут)[https://disk.yandex.ru/d/NLAk1ZZT7GhYyQ]
 
 ## Стек технологий
 - **Backend**: Flask
